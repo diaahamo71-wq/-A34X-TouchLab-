@@ -27,4 +27,4 @@ Determine, from matching source code and documented hardware behavior, whether t
 4. Compare source evidence with measured touch latency, if safe measurement methods are available.
 5. Only document feasible options and their trade-offs; no flashing instructions until exact source and risk are understood.
 
-See [device baseline](docs/device-baseline.md) and [research plan](docs/research-plan.md).
+See [device baseline](docs/device-baseline.md), [research plan](docs/research-plan.md), [deep touch-driver audit](docs/deep-touch-driver-audit-2026-11-27.md), and [source findings](docs/source-findings-touch-driver.md).
